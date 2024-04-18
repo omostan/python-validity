@@ -31,6 +31,7 @@ $ sudo apt-get update
 $ sudo apt install open-fprintd fprintd-clients python3-validity
 ...wait a bit...
 $ fprintd-enroll
+Note: You have to swipe your right-index finger several times until the enrollment is completed
 ```
 
 On Arch Linux
