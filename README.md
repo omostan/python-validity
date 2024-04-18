@@ -31,7 +31,6 @@ $ sudo apt-get update
 $ sudo apt install open-fprintd fprintd-clients python3-validity
 ...wait a bit...
 $ fprintd-enroll
-Note: You have to swipe your right-index finger several times until the enrollment is completed
 ```
 
 On Arch Linux
@@ -50,6 +49,8 @@ $ sudo dnf install open-fprintd fprintd-clients fprintd-clients-pam python3-vali
 ...wait a bit...
 $ fprintd-enroll
 ```
+#### <i>Required!</i>
+<i>You have to swipe your right-index finger several times until the enrollment is completed</i>
 
 ### Error situations
 
